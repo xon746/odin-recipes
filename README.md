@@ -1,0 +1,1 @@
+The purpose of this project is to put all the knowledge i acquired of HTML into practice. Im going to create simple recipe website which consist of index page which will have links to few recipes.
